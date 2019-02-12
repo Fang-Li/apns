@@ -1,0 +1,14 @@
+{application, erl4apns,
+ [
+  {description, ""},
+  {vsn, "1.0.2"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib,
+                  ssl
+                 ]},
+  {mod, {erl4apns, []}},
+  {env, []},
+  {modules, []}
+ ]}.
