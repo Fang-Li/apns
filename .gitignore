@@ -18,3 +18,4 @@ doc
 logs/
 *.iml
 .idea/
+priv/apns.config
