@@ -2,6 +2,10 @@
 
 ### 配置apns.config
 
+需要修改 `apns.config.example` 为 `apns.config`
+
+并添加自己的配置
+
 - **erl4apns:**
 
     cert.pem是对应的推送证书
